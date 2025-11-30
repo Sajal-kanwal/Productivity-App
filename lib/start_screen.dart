@@ -71,7 +71,7 @@ class StartScreen extends StatelessWidget {
                   ],
                 ),
                 child: Text(
-                  '🌟 "Success is not final, failure is not fatal: it is the courage to continue that counts." 🌟\n\nStart your productive journey today!',
+                  '🌟 "Success is not final, failure is not brutal: it is the courage to move forward that counts." 🌟\n\nStart your productive journey today!',
                   style: TextStyle(
                     fontSize: 16,
                     color: Colors.grey[700],
